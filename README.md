@@ -1,5 +1,7 @@
 # vip
 
+Contém as páginas que estarão em http://www.cedsmi.ufpr.br/vip/
+
 1) Crie um fork do repositório (uma cópia para sua área)
 
 2) Vá melhorando a sua cópia e fazendo commit com as modificações
